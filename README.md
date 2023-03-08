@@ -1,3 +1,7 @@
+https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png
+
+Challenge realizado para La Nacion, conciste en una grilla con noticias.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
