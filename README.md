@@ -1,7 +1,6 @@
 ![La_Naciónpng](https://user-images.githubusercontent.com/67384494/223718641-2d2d006e-7cf4-4332-a4ec-82f6de606acd.png)
-
-
-Challenge realizado para La Nacion, conciste en una grilla con noticias.
+ 
+Challenge realizado para La Nacion, conciste en una grilla con noticias realizadas con Next.Js.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
