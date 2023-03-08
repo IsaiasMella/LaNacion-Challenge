@@ -1,4 +1,5 @@
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Logo_La_Naci%C3%B3n.svg/2560px-Logo_La_Naci%C3%B3n.svg.png
+![La_Naciónpng](https://user-images.githubusercontent.com/67384494/223718641-2d2d006e-7cf4-4332-a4ec-82f6de606acd.png)
+
 
 Challenge realizado para La Nacion, conciste en una grilla con noticias.
 
